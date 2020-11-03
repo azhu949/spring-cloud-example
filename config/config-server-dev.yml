@@ -1,0 +1,5 @@
+data:
+  env: config-server
+  user:
+    username: config-server
+    password: 123456789
