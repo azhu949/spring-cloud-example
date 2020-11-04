@@ -2,4 +2,4 @@ data:
   env: config-server
   user:
     username: 666
-    password: '{cipher}87e49ba029b0378ca61533e66fe3514bdabc385b7d54bd2ba704d5fa58568739'
+    password: 123456
