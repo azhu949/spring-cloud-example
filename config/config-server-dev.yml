@@ -1,5 +1,5 @@
 data:
   env: config-server
   user:
-    username: 666
+    username: 777
     password: 12345
